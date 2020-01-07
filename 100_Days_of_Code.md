@@ -12,4 +12,8 @@
 
 **Aims:** Need to shake off javascript habits haha 😆
 
+### Day 3: January 07. Monday
+
+**Today's Progress**: Need to stop doing these so late at night but its the only time I can concentrate. Holy shiz finally got to doing some conditionals with operators. Discovered yet more Python 🐍 quirks, the biggest being that Javascript `&&`, `||` and `!!` is `and`, `or` and `not` in Python. I have now followed at least 1hr of Mosh's tutorial, would have done more but got distracted by themeing VSCode 😅
+
 <!-- https://www.youtube.com/watch?v=DzDtzbcmb58&feature=emb_title&ab_channel=suneynasharma -->
