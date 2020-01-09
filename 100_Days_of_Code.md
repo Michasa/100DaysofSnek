@@ -20,4 +20,8 @@
 
 **Today's Progress**: Just a couple of games with Mosh, trying to figure out an answer befoer I see his solution and I usually get like 80% there but just a couple of points I miss. Alls good
 
+### Day 5: January 09
+
+**Today's Progress**: Pushing now cause we're strapped for time and I want to get my git activity chart green. Finished the car excerise, got to itterators which aren't really the most exciting part of code but they're important. Tried to make it fun by using Gwen Stefani and Harijuku girl references, pretty proud of my `harijuku_girls` itterator 😆. Right now, I am attempting to go through an excerise that Mosh gave but the instructions weren't clear to me...I am sure I can crack this 😞
+
 <!-- https://www.youtube.com/watch?v=DzDtzbcmb58&feature=emb_title&ab_channel=suneynasharma -->
