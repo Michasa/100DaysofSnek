@@ -24,4 +24,8 @@
 
 **Today's Progress**: Pushing now cause we're strapped for time and I want to get my git activity chart green. Finished the car excerise, got to itterators which aren't really the most exciting part of code but they're important. Tried to make it fun by using Gwen Stefani and Harijuku girl references, pretty proud of my `harijuku_girls` itterator 😆. Right now, I am attempting to go through an excerise that Mosh gave but the instructions weren't clear to me...I am sure I can crack this 😞
 
+### Day 6: January 10
+
+**Today's Progress**: It appears in python for ranges ('e.g. [x:n]), that last numeral is the cut off point and it is not included in the result, so its like n-1. Tried a number duplicate removal exercise and my answer was totally different from Mosh's, his was more succinct. But I suppose thats the beauty of code. Also got introduced to tupples and that python has an equivalent to deconstruction called unpackaging!
+
 <!-- https://www.youtube.com/watch?v=DzDtzbcmb58&feature=emb_title&ab_channel=suneynasharma -->
