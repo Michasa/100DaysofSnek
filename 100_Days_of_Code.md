@@ -32,4 +32,8 @@
 
 **Today's Progress**: Got introduced to dictionaries, they're basically a lot like javascript object so they weren't too difficult. Got different methods but I can again see similarities
 
+### Day 8: January 13
+
+**Today's Progress**: Finally got to the money, FUNCTIONS! I can now organise my code into reusable blocks 😸 Learnt the difference between a parameter and an argument; parameter is the placeholder and the argument is the supplied value when the function is called.
+
 <!-- https://www.youtube.com/watch?v=DzDtzbcmb58&feature=emb_title&ab_channel=suneynasharma -->
