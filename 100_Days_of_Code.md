@@ -1,4 +1,4 @@
-## #100DaysOfCode - done in 2020
+## #100DaysOfCode - done in 2020, the year of the rat so should I be studying go(pher) instead then?
 
 ### Day 1: January 05
 
@@ -27,5 +27,9 @@
 ### Day 6: January 10
 
 **Today's Progress**: It appears in python for ranges ('e.g. [x:n]), that last numeral is the cut off point and it is not included in the result, so its like n-1. Tried a number duplicate removal exercise and my answer was totally different from Mosh's, his was more succinct. But I suppose thats the beauty of code. Also got introduced to tupples and that python has an equivalent to deconstruction called unpackaging!
+
+### Day 7: January 11
+
+**Today's Progress**: Got introduced to dictionaries, they're basically a lot like javascript object so they weren't too difficult. Got different methods but I can again see similarities
 
 <!-- https://www.youtube.com/watch?v=DzDtzbcmb58&feature=emb_title&ab_channel=suneynasharma -->
