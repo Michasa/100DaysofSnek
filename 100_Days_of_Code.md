@@ -36,4 +36,10 @@
 
 **Today's Progress**: Finally got to the money, FUNCTIONS! I can now organise my code into reusable blocks 😸 Learnt the difference between a parameter and an argument; parameter is the placeholder and the argument is the supplied value when the function is called.
 
+### Day 9: January 14
+
+**Today's Progress**: Not a fan of classes in Javascript and so it was interesting to see them in Python. They are again also very similar and I found the whole class extension thing you can do really cool, I wonder if you can do the same in Javascript? Also learnt about modules which allows you to abstract code so its not all on one page.
+
+I've decided that once I finish Mosh's tutorial series on Python, I'm gonna reward myself and buy a Raspberry Pi (after some research of course) and try and do some projects with it. So far I am just over 50% through the video tutorial 💃
+
 <!-- https://www.youtube.com/watch?v=DzDtzbcmb58&feature=emb_title&ab_channel=suneynasharma -->
