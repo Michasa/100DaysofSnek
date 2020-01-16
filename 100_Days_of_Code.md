@@ -42,4 +42,8 @@
 
 I've decided that once I finish Mosh's tutorial series on Python, I'm gonna reward myself and buy a Raspberry Pi (after some research of course) and try and do some projects with it. So far I am just over 50% through the video tutorial 💃
 
+### Day 10: January 16
+
+**Today's Progress**: I'll admit today was hard and one of _those_ days, not very interesting topics...packages and modules. Actually I didn't understand Mosh's explaination (he depended on pycharm functionality to create a package...why not show us how to make a package mainly?! ffs) nor did I see the point of setting up things as package. I think they're like npm packages? Skipped!
+
 <!-- https://www.youtube.com/watch?v=DzDtzbcmb58&feature=emb_title&ab_channel=suneynasharma -->

@@ -12,6 +12,7 @@ def emoji_convertor():
     emojis = {
         ":)": "😄",
         ":'(":  "😢",
+        ":(": "🙁",
         ":/": "😕"
     }
 
@@ -21,3 +22,13 @@ def emoji_convertor():
         output += emojis.get(word, word) + " "
 
     print(output)
+
+
+def find_max(number_list):
+    max = 0
+
+    for number in number_list:
+        if number > max:
+            max = number
+
+    return max
