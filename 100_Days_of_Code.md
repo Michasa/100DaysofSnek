@@ -46,4 +46,8 @@ I've decided that once I finish Mosh's tutorial series on Python, I'm gonna rewa
 
 **Today's Progress**: I'll admit today was hard and one of _those_ days, not very interesting topics...packages and modules. Actually I didn't understand Mosh's explaination (he depended on pycharm functionality to create a package...why not show us how to make a package mainly?! ffs) nor did I see the point of setting up things as package. I think they're like npm packages? Skipped!
 
+### Day 11: January 21
+
+**Today's Progress**: I'm determined not to drop this. It appears that I haven't done anything the past 4 days, true I gave myself a break but I did do some small work I didn't commit on a day to day basis. Got to an interesting exercise where I edit an excel document using python alone and that looks so cool. BUT I noticed that Mosh was using pipenv and upon reading I've found out that its used to install packages to the current work directory environment and instead of globally incase different work depends on different versioning. Trying to install it depends on Python3 which I have installed but `python --version` gives me 2.3, so I've been struggling to change it to python 3 to currently no avail. I think maybe I should uninstall the program? I dunno but its really fustrating me to the point I could just do the exercise and figure it out later.
+
 <!-- https://www.youtube.com/watch?v=DzDtzbcmb58&feature=emb_title&ab_channel=suneynasharma -->
