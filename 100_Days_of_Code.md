@@ -54,4 +54,8 @@ I've decided that once I finish Mosh's tutorial series on Python, I'm gonna rewa
 
 **Today's Progress**: Learnt how to modifiy an excel document and I'm feeling powerful 💃😆Its incredible to think that those long days of messing on excel could have been sped up if I knew python. Wrote the scipt and BAM all the prices were changed without me having to go through each and every one? WOW! I am really enjoying this and appreciating the power that Python has. Sneks forever 🐍 Maybe I start using this for the excel documents in my life...:D!
 
+### Day 13: January 30
+
+**Today's Progress**: I'm not sure if this is cheating because I didn't technically do any code but, heyho my 100Doc; my rules! Mosh's tutorials have really jumped up a notch, from making a relatively simple excel document to now doing machine learning?! Jeez. Today I didn't do much code, but I did install anaconda in order to use a program Jupyiter that runs in the the browser. I've watched a bit ahead and the next exercise seems really cool actually. I have to admit I am a bit wary at how big this jump in projects are but this is really gonna be good for me
+
 <!-- https://www.youtube.com/watch?v=DzDtzbcmb58&feature=emb_title&ab_channel=suneynasharma -->
