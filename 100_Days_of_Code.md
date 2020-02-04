@@ -56,6 +56,10 @@ I've decided that once I finish Mosh's tutorial series on Python, I'm gonna rewa
 
 ### Day 13: January 30
 
-**Today's Progress**: I'm not sure if this is cheating because I didn't technically do any code but, heyho my 100Doc; my rules! Mosh's tutorials have really jumped up a notch, from making a relatively simple excel document to now doing machine learning?! Jeez. Today I didn't do much code, but I did install anaconda in order to use a program Jupyiter that runs in the the browser. I've watched a bit ahead and the next exercise seems really cool actually. I have to admit I am a bit wary at how big this jump in projects are but this is really gonna be good for me
+**Today's Progress**: I'm not sure if this is cheating because I didn't technically do any code but, heyho my 100Doc; my rules! Mosh's tutorials have really jumped up a notch, from making a relatively simple excel document to now doing machine learning?! Jeez. Today I didn't do much code, but I did install anaconda in order to use a program Jupyiter that runs in the the browser. So I won't be making work commits to this git anymore. Will update this doc. I've watched a bit ahead and the next exercise seems really cool actually. I have to admit I am a bit wary at how big this jump in projects are but this is really gonna be good for me
+
+### Day 14: February 4th
+
+**Today's Progress**: Today I really didn't feel like it but I'm glad that I did. This Juypter pandas stuff is really interesting and I can't believe within 2 weeks worth of work I'm now doing machine learning to predict music choices based on age and sex. That's really interesting and the way its being explained in the tutorial makes it seems a lot more accesible than what I thought machine learning would be. Perhaps this is a path worth persuing. 14/100 is 14% completed 😩ahhhh
 
 <!-- https://www.youtube.com/watch?v=DzDtzbcmb58&feature=emb_title&ab_channel=suneynasharma -->
